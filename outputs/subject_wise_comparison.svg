@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450" y="30" text-anchor="middle" font-size="22" font-family="Arial">Subject-wise Average Marks by Gender</text>
+<line x1="90" y1="60" x2="90" y2="440" stroke="black"/>
+<line x1="90" y1="440" x2="830" y2="440" stroke="black"/>
+<line x1="84" y1="440.0" x2="90" y2="440.0" stroke="black"/>
+<text x="78" y="444.0" text-anchor="end" font-size="12" font-family="Arial">40</text>
+<line x1="84" y1="376.6666666666667" x2="90" y2="376.6666666666667" stroke="black"/>
+<text x="78" y="380.6666666666667" text-anchor="end" font-size="12" font-family="Arial">50</text>
+<line x1="84" y1="313.3333333333333" x2="90" y2="313.3333333333333" stroke="black"/>
+<text x="78" y="317.3333333333333" text-anchor="end" font-size="12" font-family="Arial">60</text>
+<line x1="84" y1="250.0" x2="90" y2="250.0" stroke="black"/>
+<text x="78" y="254.0" text-anchor="end" font-size="12" font-family="Arial">70</text>
+<line x1="84" y1="186.66666666666666" x2="90" y2="186.66666666666666" stroke="black"/>
+<text x="78" y="190.66666666666666" text-anchor="end" font-size="12" font-family="Arial">80</text>
+<line x1="84" y1="123.33333333333333" x2="90" y2="123.33333333333333" stroke="black"/>
+<text x="78" y="127.33333333333333" text-anchor="end" font-size="12" font-family="Arial">90</text>
+<line x1="84" y1="60.0" x2="90" y2="60.0" stroke="black"/>
+<text x="78" y="64.0" text-anchor="end" font-size="12" font-family="Arial">100</text>
+<rect x="152.5" y="247.59107142857147" width="28" height="192.40892857142853" fill="#5b8ff9" opacity="0.9"/>
+<text x="166.5" y="241.59107142857147" text-anchor="middle" font-size="11" font-family="Arial">70.4</text>
+<rect x="184.5" y="261.75625" width="28" height="178.24374999999998" fill="#f6bd16" opacity="0.9"/>
+<text x="198.5" y="255.75625000000002" text-anchor="middle" font-size="11" font-family="Arial">68.1</text>
+<text x="182.5" y="470" text-anchor="middle" font-size="13" font-family="Arial">Math</text>
+<rect x="337.5" y="265.31309523809523" width="28" height="174.68690476190477" fill="#5b8ff9" opacity="0.9"/>
+<text x="351.5" y="259.31309523809523" text-anchor="middle" font-size="11" font-family="Arial">67.6</text>
+<rect x="369.5" y="267.515625" width="28" height="172.484375" fill="#f6bd16" opacity="0.9"/>
+<text x="383.5" y="261.515625" text-anchor="middle" font-size="11" font-family="Arial">67.2</text>
+<text x="367.5" y="470" text-anchor="middle" font-size="13" font-family="Arial">Science</text>
+<rect x="522.5" y="262.05595238095236" width="28" height="177.94404761904764" fill="#5b8ff9" opacity="0.9"/>
+<text x="536.5" y="256.05595238095236" text-anchor="middle" font-size="11" font-family="Arial">68.1</text>
+<rect x="554.5" y="256.9270833333333" width="28" height="183.07291666666669" fill="#f6bd16" opacity="0.9"/>
+<text x="568.5" y="250.92708333333331" text-anchor="middle" font-size="11" font-family="Arial">68.9</text>
+<text x="552.5" y="470" text-anchor="middle" font-size="13" font-family="Arial">English</text>
+<rect x="707.5" y="264.49880952380954" width="28" height="175.50119047619046" fill="#5b8ff9" opacity="0.9"/>
+<text x="721.5" y="258.49880952380954" text-anchor="middle" font-size="11" font-family="Arial">67.7</text>
+<rect x="739.5" y="277.23333333333335" width="28" height="162.76666666666665" fill="#f6bd16" opacity="0.9"/>
+<text x="753.5" y="271.23333333333335" text-anchor="middle" font-size="11" font-family="Arial">65.7</text>
+<text x="737.5" y="470" text-anchor="middle" font-size="13" font-family="Arial">History</text>
+<rect x="730" y="90" width="14" height="14" fill="#5b8ff9"/>
+<text x="752" y="102" font-size="12" font-family="Arial">Female</text>
+<rect x="730" y="114" width="14" height="14" fill="#f6bd16"/>
+<text x="752" y="126" font-size="12" font-family="Arial">Male</text>
+</svg>
